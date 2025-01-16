@@ -1,2 +1,2 @@
 # first-framework-playwright
-My first repo
+My first framwework
